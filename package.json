@@ -1,0 +1,24 @@
+{
+  "name": "ems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DPrinceKumar/ems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DPrinceKumar/ems/issues"
+  },
+  "homepage": "https://github.com/DPrinceKumar/ems#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
